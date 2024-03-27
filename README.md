@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>EfficientNet B0</td>
-    <td>79.20% </td>
+    <td>79.20% ✅</td>
     <td>67.28%</td>
   </tr>
   <tr>
