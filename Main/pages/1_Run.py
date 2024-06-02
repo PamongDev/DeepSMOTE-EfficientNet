@@ -10,8 +10,8 @@ from function import EfficientNetClassification, classification
 
 #header
 st.set_page_config('Skripsi',layout='wide')
-st.title("Klasifikasi Kualitas Benih Jagung Menggunakan EfficientNet dan DeepSMOTE")
-st.write("_"*100)
+st.title("Efficient Maize DeepSeed")
+st.write("___")
 
 st.markdown("### Interface EfficientNet",unsafe_allow_html=True)
 files=st.file_uploader("Masukan File Benih Jagung", type=["jpg", "png", "jpeg"])
